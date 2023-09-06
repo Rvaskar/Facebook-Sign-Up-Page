@@ -1,7 +1,7 @@
 <h1> Facebook signup page </h1>
 <h2> Output</h2>
-<img src="/code" alt="img">
-<img src="/home" alt="img">
+<img src="/code.png" alt="img">
+<img src="/ot.png" alt="img">
 
 
 
